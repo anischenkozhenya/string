@@ -1,0 +1,12 @@
+irl on site:
+https://medium.com/css-mine/bootstraps-reboot-next-evolutionary-step-for-css-reset-a30f718521b9
+https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/hidden
+https://purecss.io/
+https://github.com/twbs/bootstrap
+https://twitter.com/getbootstrap
+Phone numbers:
+Imails on site:
+last@example.com
+kornilovoy@gmail.com
+--------------------
